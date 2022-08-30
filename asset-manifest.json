@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/example-star-wars/static/css/main.666379c2.css",
-    "main.js": "/example-star-wars/static/js/main.ea658525.js",
+    "main.js": "/example-star-wars/static/js/main.c0e71d0a.js",
     "index.html": "/example-star-wars/index.html",
     "main.666379c2.css.map": "/example-star-wars/static/css/main.666379c2.css.map",
-    "main.ea658525.js.map": "/example-star-wars/static/js/main.ea658525.js.map"
+    "main.c0e71d0a.js.map": "/example-star-wars/static/js/main.c0e71d0a.js.map"
   },
   "entrypoints": [
     "static/css/main.666379c2.css",
-    "static/js/main.ea658525.js"
+    "static/js/main.c0e71d0a.js"
   ]
 }
